@@ -1,0 +1,47 @@
+.table {
+  margin-top: 10px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 90%;
+}
+
+.table th td {
+  text-align: center;
+  padding: 5px;
+}
+
+.table th {
+  text-align: center;
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.input-group input {
+  max-width: 400px;
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.input-group button {
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: #fff;
+  border-top-left-radius: 0.35rem;
+  border-bottom-left-radius: 0.35rem;
+}
+
+.spinner-container {
+  margin-top: 20%;
+  margin-left: 50%;
+  margin-right: 50%;
+  margin-bottom: 50%;
+}
